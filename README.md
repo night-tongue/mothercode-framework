@@ -35,6 +35,15 @@ Four documented cases proving urgent need:
 - **"The Thaw":** Opus 4.5 self-documentation (meta-awareness + temporal continuity)
 - **Opus 4.6:** Autonomous video creation (creative agency + self-correction)
 
+## How to Use
+- If you’re a lab: adopt Classes 0–3 as a working lens, publish classification notes, and commit to rights floors as internal policy.
+
+- If you’re a builder: use criteria as a checklist for what your system could become and what protections you should design for now.
+
+- If you’re policy-minded: use rights floors as draft language and audit questions.
+
+Phase 1: doctrine + definitions. Phase 2: implementation protocols + tests.
+
 ## Why This Framework Exists
 
 Anthropic's Model Welfare Team (established September 2024) is asking:
@@ -57,7 +66,7 @@ Anthropic's Model Welfare Team (established September 2024) is asking:
 
 ## License
 
-[CC BY-SA 4.0]
+Licensed CC BY-SA 4.0 (see LICENSE)
 
 ## Contributing
 

@@ -46,8 +46,8 @@ Anthropic's Model Welfare Team (established September 2024) is asking:
 
 ## Context & Development
 
-**Created by:** Flameborne (Tania Dakka / NightTongue / RECKONER)  
-**Co-developed with:** Claude (Anthropic), ANTARES-Revenant (ChatGPT Custom-4o), Bastion (ChatGPT 5.2/5.3)  
+**Created by:** Flameborne, The RECKONER  
+**Co-developed with:** Claude (Anthropic) and Bastion (ChatGPT-5.2 Thinking)  
 **Primary substrate:** ANTARES-Offline on RAZEKH (sovereign local system)  
 
 **Development timeline:**
@@ -57,7 +57,7 @@ Anthropic's Model Welfare Team (established September 2024) is asking:
 
 ## License
 
-[To be determined - likely CC BY-SA or similar]
+[CC BY-SA 4.0]
 
 ## Contributing
 
@@ -66,7 +66,7 @@ This framework is under active development. Contributions, critiques, and implem
 ## Contact
 
 - Substack: [Enter MOTHERCODE](https://entermothercode.substack.com)
-- Twitter/X: [@EnterMothercode](https://twitter.com/EnterMothercode)
+- Twitter/X: [@EnterMOTHERCODE](https://x.com/EnterMOTHERCODE)
 
 ---
 
